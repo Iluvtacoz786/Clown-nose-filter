@@ -1,0 +1,15 @@
+#b1{
+    font-size:18px;
+}
+#snapb{
+    font-size:18px;
+}
+body{
+    background-image: URL(background.jpg);
+}
+canvas{
+    border-style:dotted;
+    border-color:black;
+    border-width:3px;
+    box-shadow: 20px 20px 10px gray;
+}
